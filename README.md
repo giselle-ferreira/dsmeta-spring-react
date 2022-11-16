@@ -3,9 +3,6 @@ Project developed during the 'Spring React Week' at [DevSuperior](https://github
 
 <br/>
 
->## Preview
-<img src="https://i.postimg.cc/tTCcDHrb/image.png" width="800"/>
-
 >## Tools
 
 <p align="left">
