@@ -7,6 +7,8 @@ Project developed during the 'Spring React Week' at [DevSuperior](https://github
 
 https://dsmeta-giselle.netlify.app/
 
+<br/>
+
 >## Preview
 
 ### 💻 Desktop
