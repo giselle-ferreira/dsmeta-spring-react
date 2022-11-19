@@ -3,6 +3,20 @@ Project developed during the 'Spring React Week' at [DevSuperior](https://github
 
 <br/>
 
+>## Website
+
+https://dsmeta-giselle.netlify.app/
+
+>## Preview
+
+### 💻 Desktop
+<img src="https://i.postimg.cc/dQbKmSdN/dsmeta-desktop.gif" />
+
+### 📱 Mobile
+<img src="https://i.postimg.cc/Ls8d8dK5/dsmeta-mobile.gif" />
+
+<br/>
+
 >## Tools
 
 <p align="left">
