@@ -30,3 +30,8 @@ https://dsmeta-giselle.netlify.app/
 </p>
 
 <br/>
+
+>## Author 👋
+
+Made with ❤️ by <a href="https://www.linkedin.com/in/giselleferreiras/" >Giselle Ferreira.</a>
+
